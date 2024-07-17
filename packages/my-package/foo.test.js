@@ -1,5 +1,3 @@
-describe("src", () => {
-  test("should pass", () => {
-    expect(true).toBe(true);
-  });
+test("should pass", () => {
+  expect(true).toBe(true);
 });
